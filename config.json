@@ -1,0 +1,23 @@
+{
+  "symbols": "EGX:COMI, EGX:SWDY, EGX:HRHO, EGX:ETEL, TADAWUL:2222, AAPL, MSFT, NVDA",
+  "symbols_file": "symbols.txt",
+  "market": "AUTO",
+  "benchmark": "AUTO",
+  "style": "Auto",
+  "lang": "عربي",
+  "deep": true,
+  "capital": 10000,
+  "risk_pct": 1.0,
+  "virtual_trade": true,
+  "intraday": false,
+  "require_htf": true,
+  "use_corr": true,
+  "guard": true,
+  "be_next_bar": false,
+  "cards": 30,
+  "exports": ["html", "excel", "csv"],
+  "settings": {
+    "fvExt": {},
+    "mktCrashDay": 7.0
+  }
+}

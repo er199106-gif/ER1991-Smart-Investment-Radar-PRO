@@ -1,0 +1,2 @@
+# ضع رموزك هنا (فاصلة أو سطر جديد) — تُستخدم فقط إذا كان "symbols" في config.json فارغاً
+# أمثلة: EGX:COMI, TADAWUL:2222, AAPL, XAUUSD, BTC
